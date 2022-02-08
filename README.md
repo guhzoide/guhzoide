@@ -1,6 +1,6 @@
 ### Ola! me chamo Hugo Ferreira.
 
-- 🔭 Estou estudando Sistema da Informação e trabalhondo com suporte tecnico
+- 🔭 Estou estudando Sistema da Informação e trabalhando com suporte técnico
 - 📫 Contato: hugoh.ferreira2000@gmail.com
 - 😄 Pronome: ele/dele
 
