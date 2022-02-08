@@ -1,7 +1,6 @@
 ### Ola! me chamo Hugo Ferreira.
 
 - 🔭 Estou estudando Sistema da Informação e trabalhondo com suporte tecnico
-- 🌱 Estou estudando atualmente a linguadem Python
 - 📫 Contato: hugoh.ferreira2000@gmail.com
 - 😄 Pronouns: ele/dele
 
