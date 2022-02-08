@@ -2,7 +2,7 @@
 
 - 🔭 Estou estudando Sistema da Informação e trabalhondo com suporte tecnico
 - 📫 Contato: hugoh.ferreira2000@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 ##
 <div align="center">
